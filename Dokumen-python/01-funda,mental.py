@@ -12,7 +12,7 @@
 
 #  \"
 #  \'
-#  \\
+#  \\ = floor division, kebalikan dari modulus. gunanya membulatkan bilangan desmial
 # \n
 
 # eks = "going \nplane"

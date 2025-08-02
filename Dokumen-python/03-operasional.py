@@ -13,3 +13,6 @@ x += 5
 
 # pembulatan angka
 print(round(3.9))
+
+buah = "apel"
+print(buah[1:-0])
