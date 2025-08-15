@@ -1,5 +1,4 @@
-# menggabungkan opersi dg string
-
+# menggabungkan opersi dg string / manipulasi string (1)
 #1. menyambung string (concataate)
 name1 = "oci"
 name2 = "lord"
@@ -50,3 +49,13 @@ prove = "Aku maba Fasilkom UNEJ"
 jumlah = prove.count("a")# ada brp banyak si huruf a di variabel prove
 print(f"jumlah a pd {prove} adalah: {str(jumlah)}") 
 # di sini ada kekurangannya saat menghitung huruf a, huruf kapital ga kehitung
+
+
+# menggabungkan opersi dg string / manipulasi string (1)
+# operator dalam bentuk metode
+
+##merubah case dari string
+# merubah semua ke upper case
+
+hai = "helo"
+print(f"{hai} oci")
